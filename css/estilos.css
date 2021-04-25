@@ -1,0 +1,16 @@
+html,body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+}
+h1{
+text-align: center;
+}
+.cadastro {
+text-align: center;
+width: 300px;
+}
+.form-row{
+text-align: center;
+
+}
+
