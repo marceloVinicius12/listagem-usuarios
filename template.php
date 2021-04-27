@@ -15,7 +15,7 @@
     <form>
         <div class="rounded mx-auto d-block">
             <div class="form-group-center text-center ">
-            <img src="img/avatar.png">
+            <img src="img/avatar.png"><br><br>
                 <label for="usuario">usuario</label>
                 <input type="name" name="usuario" id="usuario">
                 <label for="senha">Senha</label>
